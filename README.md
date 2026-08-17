@@ -8,19 +8,39 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+Step 1: Import Required Libraries
+
+Step 2: Load the Dataset
+
+Step 3: Copy Data & Drop Unwanted Columns
+
+Step 4: Check Data Quality
+
+Step 5: Encode Categorical Variables
+
+Step 6: Define Features (X) and Target (y)
+
+Step 7: Split into Training and Testing Sets
+
+Step 8: Build and Train Logistic Regression Model
+
+Step 9: Make Predictions
+
+Step 10: Evaluate the Model
+
+Step 11: Predict for a New Student
 
 ## Program:
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: 
-RegisterNumber:  
+Developed by: UDHAYA.S
+RegisterNumber: 212225230287 
 */
 ```
+~~~ python
+
+~~~
 
 ## Output:
 ![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
